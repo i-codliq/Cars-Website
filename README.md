@@ -6,4 +6,4 @@ A simple and stylish web page showcasing Dodge cars, built using HTML and CSS. I
   - CSS  
 ## Screenshot of the site
 
-![1](work/photo_2025-10-11_17-59-32.jpg) 
+![1](work2/photo_2025-11-07_16-06-13.jpg) 
